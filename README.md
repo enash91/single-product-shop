@@ -12,6 +12,11 @@ Process Flow:
 3. Login to PayPal
 4. Click Pay Now
 
+Packages/plugins used:
+- https://developer.paypal.com/docs/api/rest-sdks/
+- https://github.com/srmklive/laravel-paypal
+ 
 Notes:
 - Database Structure found in the root of the project: single_product_shop.sql
 - This app doesn't have a login feature
+
